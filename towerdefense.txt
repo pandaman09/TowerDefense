@@ -1,0 +1,15 @@
+"towerdefense"
+{
+	"base"		""
+    "title"  "TowerDefense"
+    "version"   "1-31-15"
+    "menusystem"	"1"
+
+    "author_name"   "Pandaman09"
+    "author_email"  ""
+    "author_url"    "https://github.com/Pandaman09/TowerDefense"
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}
